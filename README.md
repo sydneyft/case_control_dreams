@@ -4,3 +4,4 @@
 
 # can we use g-computation with case control models without the sampling fraction?
 
+# NO! The y-intercept will be DISTORTED!
